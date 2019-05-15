@@ -1,9 +1,9 @@
 <?php 
 
-$host = "localhost";
-$dbUsername = "root";
+$host = "";
+$dbUsername = "";
 $dbPassword = "";
-$dbName = "techlaunch";
+$dbName = "";
 
 $conn = mysqli_connect($host, $dbUsername, $dbPassword, $dbName);
 
